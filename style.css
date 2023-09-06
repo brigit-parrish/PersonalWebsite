@@ -30,7 +30,6 @@ a:hover, .word:hover {
 .nav {
     display: flex;
     justify-content: space-between;
-    align-items: right;
     width: 100%;
 }
 
