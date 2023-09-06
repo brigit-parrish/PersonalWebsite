@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Noto Serif KR
+- Font Author: Copyright 2017 Adobe Systems Incorporated (http://www.adobe.com/).
+- Font Source: http://fonts.gstatic.com/s/notoserifkr/v20/3Jn7SDn90Gmq2mr3blnHaTZXduZp1ONyKHQ.otf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
